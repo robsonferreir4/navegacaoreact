@@ -1,10 +1,10 @@
 import React from 'react'
 
 const Home = props => (
-    <aside class="Home">
+    <div class="Home">
         <h1>Ínicio</h1>
         <p>Bem vindo!</p>
-    </aside>
+    </div>
 )
 
 export default Home
